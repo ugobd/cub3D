@@ -1,0 +1,17 @@
+NO ./textures/vertigo/wall_1.png
+SO ./textures/vertigo/wall_2.png
+WE ./textures/vertigo/wall_3c.png
+EA ./textures/vertigo/wall_4.png
+
+F 137,135,139
+C 166,220,242
+
+111111111
+100000001
+100111111
+100111111
+10W111111
+100111111
+100111111
+100000001
+111111111
